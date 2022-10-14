@@ -10,6 +10,8 @@ namespace ConsoleApp54
     {
         static void Main(string[] args)
         {
+            //exercícios 2
+            //Nome:Lucas Luna de Queiroz; Matricula: 8139081; Turma:01AM
             uint[] numeros = new uint[10];
             uint  maior = 0, posicao_maior = 0;
 
